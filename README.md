@@ -1,6 +1,6 @@
 !https://media.licdn.com/dms/image/v2/D4E16AQGg8RN6gFvQBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723616479763?e=1730332800&v=beta&t=Rgy7om-4X3lWJiZZnYQkwALsZQ3kPkYK2ekMSpwcBPE
 
-### Hi there 👋, Areefin Juthi
+### Hi there 👋, Areefin Juthin
 #### App Developer (Flutter)
 
 Assalamu Alaikum Orahmatullah, my name is Abdullah Al Shakib. I am a flutter developer. I love coding. I live this work to establish and elevate myself. In Sha Allah one day I will be successful and develop myself honestly
